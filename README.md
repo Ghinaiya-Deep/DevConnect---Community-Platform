@@ -24,10 +24,3 @@ It includes profile pages, posts, connections, and a clean **black & white theme
 * Axios (for API integration)
 * React Icons
 
-
-
-
-
----
-
-Would you like me to **make this README in real `.md` file** format (ready to upload on GitHub), or just keep it as text?
